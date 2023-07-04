@@ -36,7 +36,7 @@ Element Marketplace: [Twitter](https://twitter.com/Element_Market), [Discord](ht
 
 ### DID
 
-**Karatdao**: [Twitter](https://twitter.com/KaratDAO)，https://discord.gg/wkVHUuGqKW
+**Karatdao**: [Twitter](https://twitter.com/KaratDAO)，https://discord.com/invite/fcvFtkfrRA
 
 **ReadON**: [Twitter](https://twitter.com/ReadOnMe3)，[Discord](https://discord.com/invite/readon)
 
