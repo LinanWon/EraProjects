@@ -8,7 +8,7 @@
 
 **Bungee**：[Twitter](https://twitter.com/BungeeExchange)，https://discord.gg/zfKJR8yWaH
 
-**Layerswap**: [Twitter](https://twitter.com/layerswap), [Discord](https://discord.com/invite/layerswap)
+Layerswap: [Twitter](https://twitter.com/layerswap), [Discord](https://discord.com/invite/layerswap)
 
 Meson：[Twitter](https://twitter.com/mesonfi)，[Discord](https://discord.gg/meson)
 
