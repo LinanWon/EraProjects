@@ -21,9 +21,9 @@ rhino.fi：[Twitter](https://twitter.com/rhinofi)，https://discord.gg/26sXx2KAh
 
 **IZI**：[Twitter](https://twitter.com/izumi_Finance)，[Discord](https://discord.gg/izumifinance)
 
-SPACE: [Twitter](https://twitter.com/spacefi_io)，https://discord.gg/WDtuwbYRXE, [Guild](https://guild.xyz/spacefi)
+**SPACE**: [Twitter](https://twitter.com/spacefi_io)，https://discord.gg/WDtuwbYRXE, [Guild](https://guild.xyz/spacefi)
 
-Mav: [Twitter](https://twitter.com/mavprotocol)，[Discord](https://discord.com/invite/dVvnmtwdRJ)
+**Mav**: [Twitter](https://twitter.com/mavprotocol)，[Discord](https://discord.com/invite/dVvnmtwdRJ)
 
 MUTE: [Twitter](https://twitter.com/mute_io)，[Discord](https://discord.gg/muteio)
 
@@ -50,6 +50,8 @@ IDriss: [Twitter](https://twitter.com/IDriss_xyz)，https://discord.gg/RJhJKamjw
 ### DeFi
 
 **EraLend**: [Twitter](https://twitter.com/Era_Lend), https://t.co/VFLayXpLph
+
+**Satori**: [Twitter](https://twitter.com/SatoriFinance), https://discord.com/invite/GXdRnBVfUf
 
 ZKFOX: [Twitter](https://twitter.com/zk_zkfox)，[Discord](https://discord.com/invite/zkfox)
 
