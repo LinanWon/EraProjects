@@ -41,6 +41,8 @@ LFG: [Twitter](https://twitter.com/LFGSwap)
 
 **Karatdao**: [Twitter](https://twitter.com/KaratDAO)，https://discord.com/invite/fcvFtkfrRA
 
+**CARV**: [Twitter](https://twitter.com/carv_official), https://discord.com/invite/HPgZMwvSXB
+
 **Tevaera**: [Twitter](https://twitter.com/tevaera)，[Discord](https://discord.com/invite/tevaera)
 
 **ReadON**: [Twitter](https://twitter.com/ReadOnMe3)，[Discord](https://discord.com/invite/readon)
