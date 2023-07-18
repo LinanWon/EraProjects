@@ -35,6 +35,10 @@ LFG: [Twitter](https://twitter.com/LFGSwap)
 
 **Element Marketplace**: [Twitter](https://twitter.com/Element_Market), [Discord](https://discord.com/invite/elementmarket)
 
+工具：
+* [thirdweb](https://thirdweb.com/dashboard/contracts)
+* [721.so](https://www.721.so/)：[示例](https://explorer.zksync.io/address/0xf630C57ED0E2276313d5b3a35D4cB5Ef3C3f5Ec2#contract)
+
 ### DID
 
 **zkSync NS**: [Twitter](https://twitter.com/zknsdomains)，https://discord.gg/KqR8Tr57Kw
