@@ -51,6 +51,8 @@ LFG: [Twitter](https://twitter.com/LFGSwap)
 
 **ReadON**: [Twitter](https://twitter.com/ReadOnMe3)，[Discord](https://discord.com/invite/readon)
 
+**[DMail](https://dmail.ai/)**: [Twitter](https://twitter.com/dmailofficial), https://discord.com/invite/QbvaeqwMFg
+
 IDriss: [Twitter](https://twitter.com/IDriss_xyz)，https://discord.gg/RJhJKamjw5
 
 ### DeFi
