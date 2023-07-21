@@ -29,6 +29,8 @@ MUTE: [Twitter](https://twitter.com/mute_io)，[Discord](https://discord.gg/mute
 
 LFG: [Twitter](https://twitter.com/LFGSwap)
 
+CrusSwap: [推介](https://twitter.com/0xKevin00/status/1682004006485516288?s=20)
+
 ### NFT
 
 **Tabi NFT**: [Twitter](https://twitter.com/Tabi_NFT), [Discord](https://discord.com/invite/tabinft)
