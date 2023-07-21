@@ -59,6 +59,8 @@ IDriss: [Twitter](https://twitter.com/IDriss_xyz)，https://discord.gg/RJhJKamjw
 
 **EraLend**: [Twitter](https://twitter.com/Era_Lend), https://t.co/VFLayXpLph
 
+**[SynFutures](https://trade.synfutures.com/#/trade)**: [Twitter](https://twitter.com/SynFuturesDefi), [Discord](https://discord.com/invite/synfutures)
+
 **Satori**: [Twitter](https://twitter.com/SatoriFinance), https://discord.com/invite/GXdRnBVfUf
 
 ZKFOX: [Twitter](https://twitter.com/zk_zkfox)，[Discord](https://discord.com/invite/zkfox)
