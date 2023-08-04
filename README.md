@@ -21,6 +21,8 @@ rhino.fi：[Twitter](https://twitter.com/rhinofi)，https://discord.gg/26sXx2KAh
 
 **SyncSwap**：[Twitter](https://twitter.com/syncswap)，[Discord](https://discord.gg/syncswap)，[Guild](https://guild.xyz/syncswap)
 
+**Pancake**: [App]((https://pancakeswap.finance/swap?chain=zkSync))
+
 **IZI**：[Twitter](https://twitter.com/izumi_Finance)，[Discord](https://discord.gg/izumifinance)
 
 **SPACE**: [Twitter](https://twitter.com/spacefi_io)，https://discord.gg/WDtuwbYRXE, [Guild](https://guild.xyz/spacefi)
@@ -51,11 +53,11 @@ CrusSwap: [推介](https://twitter.com/0xKevin00/status/1682004006485516288?s=20
 
 **[CARV](https://link3.to/carvofficial)**: [Twitter](https://twitter.com/carv_official), https://discord.com/invite/HPgZMwvSXB
 
-**[Tevaera](https://link3.to/tevaeraofficial)**: [Twitter](https://twitter.com/tevaera)，[Discord](https://discord.com/invite/tevaera)
+**[Tevaera](https://link3.to/tevaeraofficial)**: [App](https://tevaera.com/dashboard/app), [Twitter](https://twitter.com/tevaera)，[Discord](https://discord.com/invite/tevaera)
 
 **[ReadON](https://link3.to/readon)**: [Twitter](https://twitter.com/ReadOnMe3)，[Discord](https://discord.com/invite/readon)
 
-**[DMail](https://dmail.ai/)**: [Twitter](https://twitter.com/dmailofficial), https://discord.com/invite/QbvaeqwMFg
+**[DMail](https://linktr.ee/dmail)**: [Twitter](https://twitter.com/dmailofficial), https://discord.com/invite/QbvaeqwMFg
 
 IDriss: [Twitter](https://twitter.com/IDriss_xyz)，https://discord.gg/RJhJKamjw5
 
