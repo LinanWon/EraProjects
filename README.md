@@ -35,6 +35,8 @@ LFG: [Twitter](https://twitter.com/LFGSwap)
 
 CrusSwap: [推介](https://twitter.com/0xKevin00/status/1682004006485516288?s=20)
 
+[Silky Finance](https://linktr.ee/silkyfinance): [Mint](https://silkyfinance.xyz/#/mint)
+
 ### NFT
 
 **Tabi NFT**: [Twitter](https://twitter.com/Tabi_NFT), [Discord](https://discord.com/invite/tabinft)
