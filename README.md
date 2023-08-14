@@ -31,7 +31,7 @@ rhino.fi：[Twitter](https://twitter.com/rhinofi)，https://discord.gg/26sXx2KAh
 
 **[KyberSwap](https://kyberswap.com/swap/zksync/eth-to-usdc)**: [Twitter](https://twitter.com/KyberNetwork), [Discord](https://discord.com/invite/kyberswap)
 
-[Symbiosis](https://app.symbiosis.finance/swap?amountIn=1&chainIn=ZkSync%20Era&chainOut=ZkSync%20Era&tokenIn=ETH&tokenOut=0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4): [Twitter](https://twitter.com/symbiosis_fi), [Discord](https://discord.com/invite/YHgDSJ42eG)
+[Symbiosis](https://app.symbiosis.finance/swap?amountIn=1&chainIn=ZkSync%20Era&chainOut=ZkSync%20Era&tokenIn=ETH&tokenOut=0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4): [Twitter](https://twitter.com/symbiosis_fi), https://discord.com/invite/YHgDSJ42eG
 
 MUTE: [Twitter](https://twitter.com/mute_io), [Discord](https://discord.gg/muteio)
 
