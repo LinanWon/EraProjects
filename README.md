@@ -21,7 +21,7 @@ rhino.fi：[Twitter](https://twitter.com/rhinofi)，https://discord.gg/26sXx2KAh
 
 **SyncSwap**：[Twitter](https://twitter.com/syncswap)，[Discord](https://discord.gg/syncswap)，[Guild](https://guild.xyz/syncswap)
 
-**Pancake**: [App]((https://pancakeswap.finance/swap?chain=zkSync))
+**Pancake**: [App](https://pancakeswap.finance/swap?chain=zkSync)
 
 **IZI**：[Twitter](https://twitter.com/izumi_Finance)，[Discord](https://discord.gg/izumifinance)
 
@@ -33,7 +33,9 @@ rhino.fi：[Twitter](https://twitter.com/rhinofi)，https://discord.gg/26sXx2KAh
 
 [Symbiosis](https://app.symbiosis.finance/swap?amountIn=1&chainIn=ZkSync%20Era&chainOut=ZkSync%20Era&tokenIn=ETH&tokenOut=0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4): [Twitter](https://twitter.com/symbiosis_fi), [Discord](https://discord.com/invite/YHgDSJ42eG)
 
-MUTE: [Twitter](https://twitter.com/mute_io)，[Discord](https://discord.gg/muteio)
+MUTE: [Twitter](https://twitter.com/mute_io), [Discord](https://discord.gg/muteio)
+
+[Velcore](https://zksync.velocore.xyz/swap): [Twitter](https://twitter.com/velocorexyz), [Discord](https://discord.com/invite/velocorexyz)
 
 LFG: [Twitter](https://twitter.com/LFGSwap)
 
