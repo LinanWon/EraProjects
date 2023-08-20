@@ -21,7 +21,7 @@ rhino.fi：[Twitter](https://twitter.com/rhinofi)，https://discord.gg/26sXx2KAh
 
 **SyncSwap**：[Twitter](https://twitter.com/syncswap)，[Discord](https://discord.gg/syncswap)，[Guild](https://guild.xyz/syncswap)
 
-**Pancake**: [App](https://pancakeswap.finance/swap?chain=zkSync)
+**Pancake**: **[App](https://pancakeswap.finance/swap?chain=zkSync)**
 
 **IZI**：[Twitter](https://twitter.com/izumi_Finance)，[Discord](https://discord.gg/izumifinance)
 
@@ -29,13 +29,15 @@ rhino.fi：[Twitter](https://twitter.com/rhinofi)，https://discord.gg/26sXx2KAh
 
 **Mav**: [Twitter](https://twitter.com/mavprotocol)，[Discord](https://discord.com/invite/dVvnmtwdRJ)
 
-**[KyberSwap](https://kyberswap.com/swap/zksync/eth-to-usdc)**: [Twitter](https://twitter.com/KyberNetwork), [Discord](https://discord.com/invite/kyberswap)
+**1inch**: **[App](https://app.1inch.io/#/324/simple/swap/ETH/USDC)**
 
-[Symbiosis](https://app.symbiosis.finance/swap?amountIn=1&chainIn=ZkSync%20Era&chainOut=ZkSync%20Era&tokenIn=ETH&tokenOut=0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4): [Twitter](https://twitter.com/symbiosis_fi), https://discord.com/invite/YHgDSJ42eG
+**[KyberSwap](https://link3.to/kyberswap)**: **[App](https://kyberswap.com/swap/zksync/eth-to-usdc)**, [Twitter](https://twitter.com/KyberNetwork), [Discord](https://discord.com/invite/kyberswap)
+
+[Symbiosis](https://linktr.ee/symbiosis_fi): **[App](https://app.symbiosis.finance/swap?amountIn=1&chainIn=ZkSync%20Era&chainOut=ZkSync%20Era&tokenIn=ETH&tokenOut=0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4)**, [Twitter](https://twitter.com/symbiosis_fi), https://discord.com/invite/YHgDSJ42eG
 
 MUTE: [Twitter](https://twitter.com/mute_io), [Discord](https://discord.gg/muteio)
 
-[Velcore](https://zksync.velocore.xyz/swap): [Twitter](https://twitter.com/velocorexyz), [Discord](https://discord.com/invite/velocorexyz)
+Velcore: **[App](https://zksync.velocore.xyz/swap)**, [Twitter](https://twitter.com/velocorexyz), [Discord](https://discord.com/invite/velocorexyz)
 
 LFG: [Twitter](https://twitter.com/LFGSwap)
 
@@ -61,11 +63,13 @@ CrusSwap: [推介](https://twitter.com/0xKevin00/status/1682004006485516288?s=20
 
 **[CARV](https://link3.to/carvofficial)**: [Twitter](https://twitter.com/carv_official), https://discord.com/invite/HPgZMwvSXB
 
-**[Tevaera](https://link3.to/tevaeraofficial)**: [App](https://tevaera.com/dashboard/app), [Twitter](https://twitter.com/tevaera)，[Discord](https://discord.com/invite/tevaera)
+**[Tevaera](https://link3.to/tevaeraofficial)**: **[App](https://tevaera.com/?source=OKX)**, [Twitter](https://twitter.com/tevaera)，[Discord](https://discord.com/invite/tevaera)
 
 **[ReadON](https://link3.to/readon)**: [Twitter](https://twitter.com/ReadOnMe3)，[Discord](https://discord.com/invite/readon)
 
 **[DMail](https://linktr.ee/dmail)**: [Twitter](https://twitter.com/dmailofficial), https://discord.com/invite/QbvaeqwMFg
+
+ZNS: **[App](https://zks.network/?)**, [Twitter](https://twitter.com/znszks), https://discord.com/invite/khUzs83jxF
 
 IDriss: [Twitter](https://twitter.com/IDriss_xyz)，https://discord.gg/RJhJKamjw5
 
@@ -73,9 +77,9 @@ IDriss: [Twitter](https://twitter.com/IDriss_xyz)，https://discord.gg/RJhJKamjw
 
 **EraLend**: [Twitter](https://twitter.com/Era_Lend), https://t.co/VFLayXpLph
 
-**[SynFutures](https://trade.synfutures.com/#/trade)**: [Twitter](https://twitter.com/SynFuturesDefi), [Discord](https://discord.com/invite/synfutures)
+**SynFutures**: **[App](https://trade.synfutures.com/#/trade)**, [Twitter](https://twitter.com/SynFuturesDefi), [Discord](https://discord.com/invite/synfutures)
 
-**Satori**: [Twitter](https://twitter.com/SatoriFinance), https://discord.com/invite/GXdRnBVfUf
+**Satori**: **[App](https://zksync.satori.finance/)**, [Twitter](https://twitter.com/SatoriFinance), https://discord.com/invite/GXdRnBVfUf
 
 ZKFOX: [Twitter](https://twitter.com/zk_zkfox)，[Discord](https://discord.com/invite/zkfox)
 
