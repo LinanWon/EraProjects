@@ -2,11 +2,15 @@
 
 **官方**：[Twitter](https://twitter.com/zksync)，[Discord](https://join.zksync.dev/)，[Guild](https://guild.xyz/zksync-era)
 
+空投评估：[ZK-CODEX](https://zksync.netlify.app/?address=)
+
 项目投票平台：https://www.zkrank.xyz/
 
 ### 跨链
 
 **小飞碟**：[Twitter](https://twitter.com/Orbiter_Finance)，[Discord](http://discord.gg/orbiter-finance)，[Guild](https://guild.xyz/orbiter-finance)
+
+**[XY Finance](https://link3.to/xyfinance)**: **[App](https://app.xy.finance/)**, [Twitter](https://twitter.com/xyfinance), https://discord.com/invite/zHKxJYZ52P
 
 **Bungee**：[Twitter](https://twitter.com/BungeeExchange)，https://discord.gg/zfKJR8yWaH
 
