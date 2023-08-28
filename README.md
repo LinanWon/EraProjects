@@ -2,6 +2,8 @@
 
 **官方**：[Twitter](https://twitter.com/zksync)，[Discord](https://join.zksync.dev/)，[Guild](https://guild.xyz/zksync-era)
 
+任务平台：[Layer3](https://layer3.xyz/category/zksync)
+
 空投评估：[ZK-CODEX](https://zksync.netlify.app/?address=)
 
 项目投票平台：https://www.zkrank.xyz/
@@ -71,7 +73,7 @@ CrusSwap: [推介](https://twitter.com/0xKevin00/status/1682004006485516288?s=20
 
 **[ReadON](https://link3.to/readon)**: [Twitter](https://twitter.com/ReadOnMe3)，[Discord](https://discord.com/invite/readon)
 
-**[DMail](https://linktr.ee/dmail)**: [Twitter](https://twitter.com/dmailofficial), https://discord.com/invite/QbvaeqwMFg
+**[DMail](https://linktr.ee/dmail)**: [Twitter](https://twitter.com/dmailofficial), https://discord.com/invite/QbvaeqwMFg, [guildance](https://twitter.com/leshka_eth/status/1695752586941591822)
 
 ZNS: **[App](https://zks.network/?)**, [Twitter](https://twitter.com/znszks), https://discord.com/invite/khUzs83jxF
 
