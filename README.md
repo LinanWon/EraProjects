@@ -4,7 +4,7 @@
 
 任务平台：[Layer3](https://layer3.xyz/category/zksync)
 
-空投评估：[ZK-CODEX](https://zksync.netlify.app/?address=)
+空投评估：CODEX系列（[zkSync](https://zksync.netlify.app/?address=), [Linea](https://linea-tracker.netlify.app/?address=)）, [北北系列](https://bitboxtools.github.io/#/zksync), 鉴叔[LayerZero](https://jtools.ai/layerzero)
 
 项目投票平台：https://www.zkrank.xyz/
 
