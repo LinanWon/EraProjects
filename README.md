@@ -90,5 +90,3 @@ IDriss: [Twitter](https://twitter.com/IDriss_xyz)，https://discord.gg/RJhJKamjw
 ZKFOX: [Twitter](https://twitter.com/zk_zkfox)，[Discord](https://discord.com/invite/zkfox)
 
 Rollup Fi: [Twitter](https://twitter.com/Rollup_Finance)，https://discord.gg/WUSKams3Un
-
-
